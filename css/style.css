@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+ background-repeat: round;
+}
+td {
+    color: aliceblue;
+    font-size:larger;
+}
+h1{
+    color: rgb(119, 238, 238);
+    text-align: center;
+}
+table{
+margin-right: 15px;
+}
+th{
+    color: aliceblue;
+}
+p{
+    color: #ffffff;
+}
